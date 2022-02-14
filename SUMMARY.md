@@ -1,3 +1,3 @@
 # Table of contents
 
-* [WinBot-Docs](README.md)
+* [WinBot Documentation](README.md)
